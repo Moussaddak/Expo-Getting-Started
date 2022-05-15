@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Expo-Getting-Started",
+    "slug": "Expo-Getting-Started",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
