@@ -5,6 +5,7 @@ jobs:
   deploy_branch_preview:
     name: Deploy Branch Preview
     runs-on: ubuntu-latest
+    permissions: write-all
     steps:
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v1
